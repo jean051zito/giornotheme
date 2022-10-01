@@ -1,3 +1,8 @@
+*Escapando um pouco do que foi mostrado em aula, montei um código para rodar o Tema de "JoJo´s Bizarre Adventure Parte 5 - Golden Wind", tema esse entitulado "il vento d’oro". Montei esse código graças à um vídeo no youbute, já que não havia nenhum repositóro que disponibilizava o código para importar direto para o microbit.* 
+
+*Não cheguei a terminar o código mas decidi postá-lo aqui, pois quem sabe eu não termino ele por completo ou resolvo usá-lo para algum outro projeto.*
+
+*ESTE CÓDIGO FOI CRIADO APENAS PARA FINS RECREATIVOS, EM TOM DE BRINCADEIRA.*
 
 > Abrir essa página em [https://jean051zito.github.io/giornotheme/](https://jean051zito.github.io/giornotheme/)
 
